@@ -1,10 +1,7 @@
 Hi 👋 My name is Blagoje Draskovic
 ==================================
 
-Web Developer
 --------------------------
-
-Web developer with a Bachelor of Honours in Business Informatics. Skilled in JavaScript, React, NodeJS, MongoDB, SQL, ... 
 
 * 🌍  I'm based in Novi Sad, Serbia
 * ✉️  You can contact me at [bllagoje@gmail.com](mailto:bllagoje@gmail.com)
