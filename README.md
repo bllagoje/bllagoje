@@ -4,6 +4,9 @@ Hi 👋 My name is Blagoje Draskovic
 Software Developer
 ------------------
 
+Check out my **[LinkedIn](https://www.linkedin.com/in/bllagoje)** profile for more information.
+
+
 * ✉️  You can contact me at [bllagoje@gmail.com](mailto:bllagoje@gmail.com)
 * 🌍  I'm based in Novi Sad, Serbia
 
