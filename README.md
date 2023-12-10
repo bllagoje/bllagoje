@@ -1,10 +1,10 @@
-Hi 👋 My name is Blagoje Draskovic
+Hi 👋 My name is Blagoje Drašković
 ==================================
 
 Software Developer
 ------------------
 
-Check out my **[LinkedIn](https://www.linkedin.com/in/bllagoje)** profile for more information.
+Check out my **[LinkedIn](https://www.linkedin.com/in/bllagoje/)** profile for more information.
 
 
 * ✉️  You can contact me at [bllagoje@gmail.com](mailto:bllagoje@gmail.com)
