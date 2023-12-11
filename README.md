@@ -7,7 +7,7 @@ Software Developer
 Check out my **[LinkedIn](https://www.linkedin.com/in/bllagoje/)** profile for more information.
 
 
-* ✉️  You can contact me at [bllagoje@gmail.com](mailto:bllagoje@gmail.com)
+* ✉️  You can contact me at [bllagoje@gmail.com](mailto:bllagoje@gmail.com) or [dblagoje28@gmail.com](mailto:dblagoje28@gmail.com)
 * 🌍  I'm based in Novi Sad, Serbia
 
 ![](https://komarev.com/ghpvc/?username=bllagoje&label=PROFILE+VIEWS)
